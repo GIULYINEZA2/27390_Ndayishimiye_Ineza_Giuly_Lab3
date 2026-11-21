@@ -40,7 +40,8 @@
 
 
 ### Results with barcode and signature
-<img width="857" height="595" alt="image" src="https://github.com/user-attachments/assets/4520646c-b12c-4e96-a030-c20062a66164" />
+<img width="867" height="597" alt="image" src="https://github.com/user-attachments/assets/40cabd3d-edb2-4145-a25a-1b7814f666e8" />
+
 
 
 ### Database (phpMyAdmin)
